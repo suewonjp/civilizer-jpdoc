@@ -1,8 +1,8 @@
 - [シビライザー英語版公式ページ](http://suewonjp.github.io/civilizer/)
 - [シビライザー英語版Githubページ](https://github.com/suewonjp/civilizer)
 - [シビライザーSourceforgeページ](https://sourceforge.net/projects/civilizer/)
-- [シビライザーtwitter - @civilizer_pkm](https://twitter.com/civilizer_pkm)
-- [シビライザーチュッとリアルビデオ](https://www.youtube.com/watch?v=0omObKmJd4E&feature=youtu.be)
+- [シビライザーツイッター @civilizer_pkm](https://twitter.com/civilizer_pkm)
+- [シビライザーチュートリアルビデオ](https://www.youtube.com/watch?v=0omObKmJd4E&feature=youtu.be)
 - [シビライザー英語版ドキュメント](https://github.com/suewonjp/civilizer/wiki)
 - [機能要求＆バグ報告＆ヘルプなど（英語）](https://github.com/suewonjp/civilizer/issues)
 - [シビライザー日本語版Githubページ](https://github.com/suewonjp/civilizer-jpdoc)
@@ -45,7 +45,7 @@
 
 シビライザーは**効率的なフールテキスト検索機能**を用いて探したいデータを素早くユーザーに提供します．
 
-**[ スクリーンショット ](http://suewonjp.github.io/civilizer/#screenshots)や[チュッとリアルビデオ](http://suewonjp.github.io/civilizer/#videos)** をご覧ください．
+**[ スクリーンショット ](http://suewonjp.github.io/civilizer/#screenshots)や[チュートリアルビデオ](http://suewonjp.github.io/civilizer/#videos)** をご覧ください．
 
 * * *
 
